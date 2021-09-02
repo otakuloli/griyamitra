@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://localhost/griyamitra</homePageLink>
+		<homePageLink>https://griyamitra.my.id</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://localhost/griyamitra/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://localhost/griyamitra/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://localhost/griyamitra/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://localhost/griyamitra/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://localhost/griyamitra/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://griyamitra.my.id/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://griyamitra.my.id/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://griyamitra.my.id/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://griyamitra.my.id/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://griyamitra.my.id/wp-json/" />
 			</apis>
 	</service>
 </rsd>
